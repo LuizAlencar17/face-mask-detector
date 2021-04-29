@@ -6,7 +6,7 @@
 
 you need to install some libraries.
 
-`` bash
+```bash
 pip install tensorflow
 pip install keras
 pip install matplotlib
@@ -15,7 +15,7 @@ pip install imutils
 pip install numpy
 pip install random
 pip install cv2
-``
+```
 
 ## Files
 
