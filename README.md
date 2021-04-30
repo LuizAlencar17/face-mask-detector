@@ -1,10 +1,12 @@
 # Python project to detect the use of masks
 
-! [Alt Text] (https://i1.wp.com/www.marktechpost.com/wp-content/uploads/2019/10/1_QAAGYDHreoRm4vEArNzTTQ.png?resize=372%2C238&ssl=1)
+![Example](https://github.com/LuizAlencar17/face-mask-detector/blob/main/GIFs/example.gif?raw=true)
+
+Python project that uses a MobileNetV2 deep learning model to detect the use of the user's mask through the webcam.
 
 ## Installation
 
-you need to install some libraries.
+You need to install some libraries.
 
 ```bash
 pip install tensorflow
@@ -22,7 +24,7 @@ pip install cv2
 The repository is organized as follows:
 
 #### 1. Dataset
-It contains images of the faces of people with masks and without masks.
+It contains images of the faces of people with masks and without masks. This dataset has few examples, but you can download the full dataset from the link: https://drive.google.com/file/d/1PIxc4l7l5BEy7EYT6_3O-mKF9r5fugV_/view?usp=sharing
 
 ```bash
 /dataset
